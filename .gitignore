@@ -1,0 +1,17 @@
+**/*.rs.bk
+.yarn
+.surfpool
+target/
+.anchor/
+test-ledger/
+
+node_modules/
+
+*keypair*.json
+id.json
+*.pem
+.env
+.env.*
+
+.DS_Store
+*.log
